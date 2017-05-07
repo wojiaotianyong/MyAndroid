@@ -27,7 +27,7 @@ public class CallActivity extends AppCompatActivity implements MyButton.MyOnClic
         myButton.setMyOnClickLisener(this);
     }
 
-    public void call1(View view) {
+    public void call(View view) {
         myButton.click();
     }
 
