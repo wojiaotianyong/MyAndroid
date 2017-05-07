@@ -17,7 +17,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".callback.CallActivity" />
-        <activity android:name=".callback.Call2Activity"></activity>
+        <activity android:name=".callback.Call2Activity" />
+        <activity android:name=".callback.Call3Activity" />
+        <activity android:name=".callback.BaseActivity"></activity>
     </application>
 
 </manifest>

@@ -34,6 +34,17 @@
             android:text="goCall2"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:onClick="goCall3"
+            android:padding="10dp"
+            android:text="goCall3"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent" />
     </LinearLayout>
 
 </android.support.constraint.ConstraintLayout>
