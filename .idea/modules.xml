@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAndroid.iml" filepath="$PROJECT_DIR$/MyAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/headimage-cliper/headimage-cliper.iml" filepath="$PROJECT_DIR$/headimage-cliper/headimage-cliper.iml" />
     </modules>
   </component>
 </project>
