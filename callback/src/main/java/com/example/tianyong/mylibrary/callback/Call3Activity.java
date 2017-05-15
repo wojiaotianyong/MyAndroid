@@ -1,10 +1,10 @@
-package com.example.tianyong.myandroid.callback;
+package com.example.tianyong.mylibrary.callback;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.tianyong.myandroid.R;
+import com.example.tianyong.mylibrary.R;
 
 /**
  * Created by Creaty 20170507

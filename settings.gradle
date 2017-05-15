@@ -1,1 +1,1 @@
-include ':app', ':headimage-cliper'
+include ':app', ':headimage-cliper', ':callback'

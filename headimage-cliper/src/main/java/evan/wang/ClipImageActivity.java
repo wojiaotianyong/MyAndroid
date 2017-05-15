@@ -55,7 +55,7 @@ public class ClipImageActivity extends AppCompatActivity implements View.OnClick
     @Override
     protected void onResume() {
         super.onResume();
-        Log.i(TAG, "image uri: "+getIntent().getData());
+        Log.i(TAG, "image uri: " + getIntent().getData());
         if (type == 1) {
             clipViewLayout1.setVisibility(View.VISIBLE);
             clipViewLayout2.setVisibility(View.GONE);
@@ -71,16 +71,23 @@ public class ClipImageActivity extends AppCompatActivity implements View.OnClick
 
     @Override
     public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.iv_back:
-                finish();
-                break;
-            case R.id.btn_cancel:
-                finish();
-                break;
-            case R.id.bt_ok:
-                generateUriAndReturn();
-                break;
+//        switch (v.getId()) {
+//            case R.id.iv_back:
+//                finish();
+//                break;
+//            case R.id.btn_cancel:
+//                finish();
+//                break;
+//            case R.id.bt_ok:
+//                generateUriAndReturn();
+//                break;
+//        }
+        if (R.id.iv_back == v.getId()) {
+            finish();
+        } else if (R.id.btn_cancel == v.getId()) {
+            finish();
+        } else if (R.id.bt_ok == v.getId()) {
+            generateUriAndReturn();
         }
     }
 

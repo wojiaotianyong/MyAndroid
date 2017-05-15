@@ -1,9 +1,10 @@
-package com.example.tianyong.myandroid.callback;
+package com.example.tianyong.mylibrary.callback;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
-import com.example.tianyong.myandroid.R;
+import com.example.tianyong.mylibrary.R;
+
 
 public abstract class BaseActivity extends AppCompatActivity {
 

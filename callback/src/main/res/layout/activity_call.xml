@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.example.tianyong.myandroid.callback.Call3Activity">
+    tools:context="com.example.tianyong.mylibrary.callback.CallActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="call3"
+        android:onClick="call"
         android:padding="10dp"
-        android:text="call3"
+        android:text="call"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent" />
 

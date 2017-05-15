@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_main_clip);
         headImage1 = (CircleImageView) findViewById(R.id.head_image1);
         headImage2 = (ImageView) findViewById(R.id.head_image2);
         RelativeLayout qqLayout = (RelativeLayout) findViewById(R.id.qqLayout);
@@ -100,15 +100,22 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.qqLayout:
-                type = 1;
-                uploadHeadImage();
-                break;
-            case R.id.weixinLayout:
-                type = 2;
-                uploadHeadImage();
-                break;
+//        switch (v.getId()) {
+//            case R.id.qqLayout:
+//                type = 1;
+//                uploadHeadImage();
+//                break;
+//            case R.id.weixinLayout:
+//                type = 2;
+//                uploadHeadImage();
+//                break;
+//        }
+        if (R.id.qqLayout == v.getId()) {
+            type = 1;
+            uploadHeadImage();
+        } else if (R.id.weixinLayout == v.getId()) {
+            type = 2;
+            uploadHeadImage();
         }
     }
 
@@ -124,7 +131,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         final PopupWindow popupWindow = new PopupWindow(view, ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT);
         popupWindow.setBackgroundDrawable(getResources().getDrawable(android.R.color.transparent));
         popupWindow.setOutsideTouchable(true);
-        View parent = LayoutInflater.from(this).inflate(R.layout.activity_main, null);
+        View parent = LayoutInflater.from(this).inflate(R.layout.activity_main_clip, null);
         popupWindow.showAtLocation(parent, Gravity.BOTTOM, 0, 0);
         //popupWindow在弹窗的时候背景半透明
         final WindowManager.LayoutParams params = getWindow().getAttributes();

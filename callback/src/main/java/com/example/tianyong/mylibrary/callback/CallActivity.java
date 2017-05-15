@@ -1,11 +1,11 @@
-package com.example.tianyong.myandroid.callback;
+package com.example.tianyong.mylibrary.callback;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.tianyong.myandroid.R;
+import com.example.tianyong.mylibrary.R;
 
 /**
  * Created by Creaty 20170429
