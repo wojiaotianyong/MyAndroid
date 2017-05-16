@@ -5,10 +5,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
-import com.example.tianyong.myandroid.callback.Call2Activity;
-import com.example.tianyong.myandroid.callback.Call3Activity;
-import com.example.tianyong.myandroid.callback.CallActivity;
-
 
 public class MainActivity extends AppCompatActivity {
 
@@ -19,16 +15,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void goCall(View view) {
-        startActivity(new Intent(this, CallActivity.class));
+    public void callBack(View view) {
+        startActivity(new Intent(this, com.example.tianyong.mylibrary.MainActivity.class));
     }
 
-    public void goCall2(View view) {
-        startActivity(new Intent(this, Call2Activity.class));
-    }
-
-    public void goCall3(View view) {
-        startActivity(new Intent(this, Call3Activity.class));
+    public void imageClip(View view) {
+        startActivity(new Intent(this, evan.wang.MainActivity.class));
     }
 
 }
