@@ -1,1 +1,1 @@
-include ':app', ':headimage-cliper', ':callback', ':unittestlibrary'
+include ':app', ':headimage-cliper', ':callback', ':unittestlibrary', ':javatestlib'
