@@ -23,4 +23,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(this, evan.wang.MainActivity.class));
     }
 
+    public void layoutParams(View view) {
+        startActivity(new Intent(this, com.example.tianyong.layoutparamslibrary.MainActivity.class));
+    }
+
 }
