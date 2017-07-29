@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/headimage-cliper/headimage-cliper.iml" filepath="$PROJECT_DIR$/headimage-cliper/headimage-cliper.iml" />
       <module fileurl="file://$PROJECT_DIR$/javatestlib/javatestlib.iml" filepath="$PROJECT_DIR$/javatestlib/javatestlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/layoutparamslibrary/layoutparamslibrary.iml" filepath="$PROJECT_DIR$/layoutparamslibrary/layoutparamslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" filepath="$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/unittestlibrary/unittestlibrary.iml" filepath="$PROJECT_DIR$/unittestlibrary/unittestlibrary.iml" />
     </modules>
