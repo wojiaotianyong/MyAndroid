@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "E:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 228,
+                        "startOffset": 233,
                         "endColumn": 57,
-                        "endOffset": 281
+                        "endOffset": 286
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 160
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 109,
+                        "startOffset": 112,
                         "endColumn": 51,
-                        "endOffset": 156
+                        "endOffset": 159
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 216
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 390,
+                        "startOffset": 398,
                         "endColumn": 55,
-                        "endOffset": 441
+                        "endOffset": 449
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 278
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 550,
+                        "startOffset": 561,
                         "endColumn": 61,
-                        "endOffset": 607
+                        "endOffset": 618
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 334
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 334,
+                        "startOffset": 341,
                         "endColumn": 55,
-                        "endOffset": 385
+                        "endOffset": 392
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 446,
+                        "startOffset": 455,
                         "endColumn": 51,
-                        "endOffset": 493
+                        "endOffset": 502
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 438
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 498,
+                        "startOffset": 508,
                         "endColumn": 51,
-                        "endOffset": 545
+                        "endOffset": 555
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 492
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 55,
+                        "startOffset": 57,
                         "endColumn": 53,
-                        "endOffset": 104
+                        "endOffset": 106
                     }
                 }
             },
@@ -163,13 +163,13 @@
                     "endOffset": 545
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 612,
+                        "startOffset": 624,
                         "endColumn": 52,
-                        "endOffset": 660
+                        "endOffset": 672
                     }
                 }
             },
@@ -182,13 +182,13 @@
                     "endOffset": 589
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 665,
+                        "startOffset": 678,
                         "endColumn": 43,
-                        "endOffset": 704
+                        "endOffset": 717
                     }
                 }
             },
@@ -201,13 +201,13 @@
                     "endOffset": 637
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 286,
+                        "startOffset": 292,
                         "endColumn": 47,
-                        "endOffset": 329
+                        "endOffset": 335
                     }
                 }
             },
@@ -220,13 +220,13 @@
                     "endOffset": 704
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 161,
+                        "startOffset": 165,
                         "endColumn": 66,
-                        "endOffset": 223
+                        "endOffset": 227
                     }
                 }
             },
@@ -240,14 +240,14 @@
                     "endOffset": 1272
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\jpush_style.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\jpush_style.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 114,
+                        "startOffset": 116,
                         "endLine": 11,
                         "endColumn": 12,
-                        "endOffset": 677
+                        "endOffset": 688
                     }
                 }
             },
@@ -261,14 +261,14 @@
                     "endOffset": 1410
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\style.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\style.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 295,
+                        "startOffset": 302,
                         "endLine": 10,
                         "endColumn": 9,
-                        "endOffset": 428
+                        "endOffset": 438
                     }
                 }
             },
@@ -282,14 +282,14 @@
                     "endOffset": 1595
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\style.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\style.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 3,
-                        "startOffset": 113,
+                        "startOffset": 115,
                         "endLine": 6,
                         "endColumn": 9,
-                        "endOffset": 293
+                        "endOffset": 299
                     }
                 }
             },
@@ -303,14 +303,14 @@
                     "endOffset": 1729
                 },
                 "from": {
-                    "file": "E:\\workspace\\MyAndroid\\jpushexample\\res\\values\\style.xml",
+                    "file": "E:\\demo\\MyAndroid\\jpushexample\\res\\values\\style.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
-                        "startOffset": 430,
+                        "startOffset": 441,
                         "endLine": 14,
                         "endColumn": 9,
-                        "endOffset": 559
+                        "endOffset": 573
                     }
                 }
             }

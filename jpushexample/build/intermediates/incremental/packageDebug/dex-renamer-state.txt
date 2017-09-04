@@ -1,7 +1,7 @@
-#Sun Jul 30 16:10:25 CST 2017
-base.0=E\:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b2e89763395457a26700b5fa40e691eea1dcf98a
+#Wed Aug 30 17:38:07 CST 2017
+base.0=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7e507109eb7bb8f265b72d17c5f5e04b68d25ffc
 renamed.1=classes.dex
 renamed.0=classes2.dex
-file.1=E\:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99ef2b5f4bc5dc19368c6f4867432941f6ffd6d0\\classes.dex
-base.1=E\:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_99ef2b5f4bc5dc19368c6f4867432941f6ffd6d0
-file.0=E\:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b2e89763395457a26700b5fa40e691eea1dcf98a\\classes.dex
+file.1=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9be114a3e1b8a014adb2f352806d8dfcd44834e5\\classes.dex
+base.1=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9be114a3e1b8a014adb2f352806d8dfcd44834e5
+file.0=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7e507109eb7bb8f265b72d17c5f5e04b68d25ffc\\classes.dex

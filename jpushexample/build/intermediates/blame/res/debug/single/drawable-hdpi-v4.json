@@ -1,18 +1,18 @@
 [
     {
-        "merged": "E:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_progressbar.xml",
-        "source": "E:\\workspace\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\richpush_progressbar.xml"
+        "merged": "E:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corners_bg.xml",
+        "source": "E:\\demo\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\corners_bg.xml"
     },
     {
-        "merged": "E:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\corners_bg.xml",
-        "source": "E:\\workspace\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\corners_bg.xml"
+        "merged": "E:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiledstripes.xml",
+        "source": "E:\\demo\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\tiledstripes.xml"
     },
     {
-        "merged": "E:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
-        "source": "E:\\workspace\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+        "merged": "E:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "E:\\demo\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\richpush_btn_selector.xml"
     },
     {
-        "merged": "E:\\workspace\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tiledstripes.xml",
-        "source": "E:\\workspace\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\tiledstripes.xml"
+        "merged": "E:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_progressbar.xml",
+        "source": "E:\\demo\\MyAndroid\\jpushexample\\res\\drawable-hdpi\\richpush_progressbar.xml"
     }
 ]
