@@ -3,24 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyAndroid.iml" filepath="$PROJECT_DIR$/MyAndroid.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\MyAndroid.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\MyAndroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\app\app.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/callback/callback.iml" filepath="$PROJECT_DIR$/callback/callback.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\callback\callback.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\callback\callback.iml" />
       <module fileurl="file://$PROJECT_DIR$/headimage-cliper/headimage-cliper.iml" filepath="$PROJECT_DIR$/headimage-cliper/headimage-cliper.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\headimage-cliper\headimage-cliper.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\headimage-cliper\headimage-cliper.iml" />
       <module fileurl="file://$PROJECT_DIR$/javatestlib/javatestlib.iml" filepath="$PROJECT_DIR$/javatestlib/javatestlib.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\javatestlib\javatestlib.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\javatestlib\javatestlib.iml" />
       <module fileurl="file://$PROJECT_DIR$/jpushexample/jpushexample.iml" filepath="$PROJECT_DIR$/jpushexample/jpushexample.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\jpushexample\jpushexample.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\jpushexample\jpushexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/layoutparamslibrary/layoutparamslibrary.iml" filepath="$PROJECT_DIR$/layoutparamslibrary/layoutparamslibrary.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\layoutparamslibrary\layoutparamslibrary.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\layoutparamslibrary\layoutparamslibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofitapp/retrofitapp.iml" filepath="$PROJECT_DIR$/retrofitapp/retrofitapp.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\retrofitapp\retrofitapp.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\retrofitapp\retrofitapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" filepath="$PROJECT_DIR$/tablayoutdemo/tablayoutdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/threadpool/threadpool.iml" filepath="$PROJECT_DIR$/threadpool/threadpool.iml" />
-      <module fileurl="file://C:\Users\tianyong\workspace_studio\MyAndroid\threadpool\threadpool.iml" filepath="C:\Users\tianyong\workspace_studio\MyAndroid\threadpool\threadpool.iml" />
       <module fileurl="file://$PROJECT_DIR$/unittestlibrary/unittestlibrary.iml" filepath="$PROJECT_DIR$/unittestlibrary/unittestlibrary.iml" />
     </modules>
   </component>

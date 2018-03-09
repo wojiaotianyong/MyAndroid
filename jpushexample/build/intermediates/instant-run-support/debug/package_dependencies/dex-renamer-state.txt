@@ -1,7 +1,0 @@
-#Wed Aug 30 17:38:06 CST 2017
-base.0=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jpush-android-3.0.8_41b808b2bb611ee21891c95b91d7fa41b2805992
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jcore-android-1.1.6_64b0fe4cc1a3878a7925cfac2c230d54ed0ae588\\classes.dex
-base.1=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jcore-android-1.1.6_64b0fe4cc1a3878a7925cfac2c230d54ed0ae588
-file.0=E\:\\demo\\MyAndroid\\jpushexample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\jpush-android-3.0.8_41b808b2bb611ee21891c95b91d7fa41b2805992\\classes.dex
